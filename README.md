@@ -1,2 +1,2 @@
-# highfrequencytrading-competition
-jane street competition 
+# JaneStreetETC
+Trading
